@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "うるうびと",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-05T04:04:02.522575Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "うるうびと",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_うるうびと_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うるうびと",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_うるうびと_RADWIMPS.txt"
+    }
+  ]
+}
